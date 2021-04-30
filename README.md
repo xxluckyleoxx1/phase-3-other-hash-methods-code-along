@@ -1,6 +1,6 @@
 # Higher Level Hash Methods
 
-## Objectives
+## Learning Goals
 
 * Use the `#values` method to return the values in a hash
 * Use the `#keys` method to return the keys in a hash
